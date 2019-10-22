@@ -1,93 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6041b54-e9b7-4f97-925b-e617cdaf2145" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Nbody/In.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/Nbody.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/StdAudio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/StdDraw.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/StdOut.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/audio/2001.mid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/data/3body.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/data/8star-rotation.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/data/antimatter.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/data/armageddon.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/data/atom.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/data/awesome.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/data/binary.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/data/binaryStars.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/data/bowling.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/data/chaosblossom.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/data/dance10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/data/entropy-universe.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/data/fourellipses.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/data/galaxy.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/data/hypnosis.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/data/illusion.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/data/its-a-trap.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/data/kaleidoscope.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/data/kevin.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/data/massive-squirrel-battle.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/data/planets-elliptical.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/data/planets.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/data/planetsparty.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/data/pluto.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/data/quad-stars.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/data/renegade.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/data/sbh2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/data/sbh3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/data/soap-opera.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/data/spiral.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/data/suninterference.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/data/twin-binaries.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/data/uniform100.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/data/uniform3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/data/uniform8.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/images/acorn-1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/images/acorn3.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/images/asteroid.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/images/ball.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/images/blackhole.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/images/death_star.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/images/earth.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/images/electron.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/images/endor.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/images/goodbye.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/images/imback.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/images/its_a_trap.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/images/jupiter.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/images/kevin.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/images/mars.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/images/mercury.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/images/neptune.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/images/ninjasquirrel_red.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/images/nucleus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/images/pin.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/images/pluto.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/images/rebel_cruiser.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/images/saturn.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/images/squirrel.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/images/star.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/images/star_destroyer.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/images/starfield.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/images/sun.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/images/uranus.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nbody/images/venus.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data_Structure/Nbody/Body.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data_Structure/Nbody/Body.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data_Structure/Nbody/Calculation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data_Structure/Nbody/Calculation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/skeleton-sp19/hw4/bearmaps/hw4/input/words10000.txt" beforeDir="false" afterPath="$PROJECT_DIR$/skeleton-sp19/hw4/bearmaps/hw4/input/words10000.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/skeleton-sp19/lab5/huglife/HugLife.java" beforeDir="false" afterPath="$PROJECT_DIR$/skeleton-sp19/lab5/huglife/HugLife.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/skeleton-sp19/lab5/huglife/StdDraw.java" beforeDir="false" afterPath="$PROJECT_DIR$/skeleton-sp19/lab5/huglife/StdDraw.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/skeleton-sp19/proj0/StdDraw.java" beforeDir="false" afterPath="$PROJECT_DIR$/skeleton-sp19/proj0/StdDraw.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/skeleton-sp19/proj0/data/massive-squirrel-battle.txt" beforeDir="false" afterPath="$PROJECT_DIR$/skeleton-sp19/proj0/data/massive-squirrel-battle.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/skeleton-sp19/proj0/examples/StdDraw.java" beforeDir="false" afterPath="$PROJECT_DIR$/skeleton-sp19/proj0/examples/StdDraw.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/skeleton-sp19/proj2c/bearmaps/proj2c/server/handler/impl/RasterAPIHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/skeleton-sp19/proj2c/bearmaps/proj2c/server/handler/impl/RasterAPIHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/skeleton-sp19/proj2c/bearmaps/proj2c/utils/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/skeleton-sp19/proj2c/bearmaps/proj2c/utils/Constants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Nbody/Body.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nbody/Body.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Nbody/Calculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nbody/Calculation.java" afterDir="false" />
-    </list>
+    <list default="true" id="d6041b54-e9b7-4f97-925b-e617cdaf2145" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -204,6 +118,14 @@
       <option name="presentableId" value="Default" />
       <updated>1571525491529</updated>
     </task>
+    <task id="LOCAL-00001" summary="finalized Nbody.Java">
+      <created>1571712774247</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571712774247</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -216,6 +138,12 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="finalized Nbody.Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="finalized Nbody.Java" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Data_Structure$HelloWorldLauncher.ic" NAME="HelloWorldLauncher Coverage Results" MODIFIED="1571530313706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
